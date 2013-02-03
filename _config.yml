@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://fan007.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: http://google.com/search
+title: Seven's Blog
+subtitle: 写博也可以很轻松.
+author: 阿七
+simple_search: http://google.com.hk/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
